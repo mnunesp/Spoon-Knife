@@ -1,0 +1,1 @@
+When it comes to organizing my project, it is probably okay to use a common repository since we will only have about 4 people wokring together. On the other hand the blessed repository can allow the project to appear cleaner and prevent people pushing and pulling when they dont need to.
